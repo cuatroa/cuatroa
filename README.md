@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Adrian! 🤘
 
 ![](https://raw.githubusercontent.com/cuatroa/cuatroa/main/bannerAdrian.gif)
 
