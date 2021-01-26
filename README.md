@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![]https://raw.githubusercontent.com/cuatroa/cuatroa/main/bannerAdrian.gif
+![](https://raw.githubusercontent.com/cuatroa/cuatroa/main/bannerAdrian.gif)
 
 <!--
 **cuatroa/cuatroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
