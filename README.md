@@ -2,6 +2,17 @@
 
 ![](https://raw.githubusercontent.com/cuatroa/cuatroa/main/bannerAdrian.gif)
 
+Projects 👇👇👇
+
+- https://adrianandres-developer-portfolio.netlify.app/
+- https://aloha-app.netlify.app/
+- https://hwpo-react-adrianandres.netlify.app/
+- https://tetris-in-react.netlify.app/
+- https://nike-3d-card.netlify.app/
+- https://8ball-magic.netlify.app/
+
+And more...
+
 <!--
 **cuatroa/cuatroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
